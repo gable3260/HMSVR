@@ -1,0 +1,206 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "waystone-1.21.1",
+      "name": "waystone (1.21.1-1.0.0)",
+      "description": "waystone Running Minecraft 1.21.1 (Fabric v0.17.3)",
+      "icon": "https://cdn.discordapp.com/attachments/824274555882963005/1427225212012855386/Icon.png?ex=68ee168f&is=68ecc50f&hm=cc7fdf569f6ff34adca34b486d7e0a6721403a61af5507ffad4c92251627e876&",
+      "version": "1.0.0",
+      "address": "localhost",
+      "minecraftVersion": "1.21.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.17.3",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1917330,
+            "MD5": "54e368d0ccdcb9109a63f048e26526b0",
+            "url": "https://gable3260.github.io/HMSVR/repo/lib/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.1-fabric-0.17.3",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "33627fcfac829672b89de5b0e4de2001",
+                "url": "https://gable3260.github.io/HMSVR/repo/versions/1.21.1-fabric-0.17.3/1.21.1-fabric-0.17.3.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1504519,
+                "MD5": "798c8c25fb84d91b384bdee442c249d7",
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 657725,
+                "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "net.blay09.mods:balm:21.0.53@jar",
+          "name": "Balm",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 615244,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.53.jar",
+            "MD5": "4f1a24f5ff1aa74f907c716c7deca587"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.116.7+1.21.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2424884,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/fabricmods/required/fabric-api-0.116.7+1.21.1.jar",
+            "MD5": "6d844b1f5a6f67395912e81043ae3aed"
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:21.1.23@jar",
+          "name": "Waystones",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 886779,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/fabricmods/required/waystones-fabric-1.21.1-21.1.23.jar",
+            "MD5": "8fd75a8a388700e3cd7fd045d75b0528"
+          }
+        },
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 290,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/files/config/fabric/indigo-renderer.properties",
+            "MD5": "5ff4e77e903d047c05b8c54ecd3e5520",
+            "path": "config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1550,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/files/config/fml.toml",
+            "MD5": "61a62e6a2b5b00f324065233e76b9a64",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "neoforge-client.toml",
+          "name": "neoforge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 578,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/files/config/neoforge-client.toml",
+            "MD5": "7f81c16ea3d467da83df18250f772149",
+            "path": "config/neoforge-client.toml"
+          }
+        },
+        {
+          "id": "neoforge-common.toml",
+          "name": "neoforge-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 772,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/files/config/neoforge-common.toml",
+            "MD5": "914110a675baa858ef6725e3f56e513c",
+            "path": "config/neoforge-common.toml"
+          }
+        },
+        {
+          "id": "waystones-common.toml",
+          "name": "waystones-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5147,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/files/config/waystones-common.toml",
+            "MD5": "09b8155604e9312e5defab1d56381e95",
+            "path": "config/waystones-common.toml"
+          }
+        }
+      ]
+    }
+  ]
+}
