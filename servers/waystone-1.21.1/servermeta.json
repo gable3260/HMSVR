@@ -1,7 +1,7 @@
 {
   "$schema": "file:///E:/server/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "waystone (1.21.1-1.0.0)",
     "description": "waystone Running Minecraft 1.21.1 (Fabric v0.17.3)",
     "icon": "https://cdn.discordapp.com/attachments/824274555882963005/1427225212012855386/Icon.png?ex=68ee168f&is=68ecc50f&hm=cc7fdf569f6ff34adca34b486d7e0a6721403a61af5507ffad4c92251627e876&",

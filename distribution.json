@@ -12,7 +12,7 @@
       "name": "waystone (1.21.1-1.0.0)",
       "description": "waystone Running Minecraft 1.21.1 (Fabric v0.17.3)",
       "icon": "https://cdn.discordapp.com/attachments/824274555882963005/1427225212012855386/Icon.png?ex=68ee168f&is=68ecc50f&hm=cc7fdf569f6ff34adca34b486d7e0a6721403a61af5507ffad4c92251627e876&",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "localhost",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -126,6 +126,16 @@
           }
         },
         {
+          "id": "com.supermartijn642:entangled:1.3.20@jar",
+          "name": "Entangled",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 119874,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/fabricmods/required/entangled-1.3.20-fabric-mc1.21.jar",
+            "MD5": "4e1f36b99cf5b6de8491a645d97e1f17"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.116.7+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -133,6 +143,26 @@
             "size": 2424884,
             "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/fabricmods/required/fabric-api-0.116.7+1.21.1.jar",
             "MD5": "6d844b1f5a6f67395912e81043ae3aed"
+          }
+        },
+        {
+          "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.8@jar",
+          "name": "SuperMartijn642's Config Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 206993,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/fabricmods/required/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+            "MD5": "fff83455887d85c6f7ebac7bba24fa8f"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18+a@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 572596,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/fabricmods/required/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar",
+            "MD5": "95d9daeca0b1492175c12765c5fec9d9"
           }
         },
         {
@@ -146,13 +176,24 @@
           }
         },
         {
+          "id": "entangled-common.toml",
+          "name": "entangled-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1052,
+            "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/files/config/entangled-common.toml",
+            "MD5": "85f461ef4f9a9a8343ffbba274e71d0a",
+            "path": "config/entangled-common.toml"
+          }
+        },
+        {
           "id": "indigo-renderer.properties",
           "name": "indigo-renderer.properties",
           "type": "File",
           "artifact": {
             "size": 290,
             "url": "https://gable3260.github.io/HMSVR/servers/waystone-1.21.1/files/config/fabric/indigo-renderer.properties",
-            "MD5": "5ff4e77e903d047c05b8c54ecd3e5520",
+            "MD5": "ec6accf5c7bc93b648ea9880f54af62b",
             "path": "config/fabric/indigo-renderer.properties"
           }
         },
