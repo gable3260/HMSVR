@@ -1791,7 +1791,7 @@
           "artifact": {
             "size": 8971,
             "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/ftbchunks-client.snbt",
-            "MD5": "363524ba80f93390a629861669f8d866",
+            "MD5": "13a6bdf1aa43f0bba5d669cae717ea27",
             "path": "config/ftbchunks-client.snbt"
           }
         },
@@ -1835,7 +1835,7 @@
           "artifact": {
             "size": 332,
             "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/iris.properties",
-            "MD5": "c68c4489f71c2270403842cea687cc59",
+            "MD5": "51cc626a12a589f1766fcf598b436d4e",
             "path": "config/iris.properties"
           }
         },
@@ -1892,116 +1892,6 @@
             "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jade/sort-order.json",
             "MD5": "1cc611765d016b6dbc9a066a4d6878fa",
             "path": "config/jade/sort-order.json"
-          }
-        },
-        {
-          "id": "blacklist.json",
-          "name": "blacklist.json",
-          "type": "File",
-          "artifact": {
-            "size": 19,
-            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/blacklist.json",
-            "MD5": "78f1a39821342258f73e542d9ea40e0f",
-            "path": "config/jei/blacklist.json"
-          }
-        },
-        {
-          "id": "ingredient-list-mod-sort-order.ini",
-          "name": "ingredient-list-mod-sort-order.ini",
-          "type": "File",
-          "artifact": {
-            "size": 623,
-            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "f6b69a8e977f44a2b3df5c86138b43cf",
-            "path": "config/jei/ingredient-list-mod-sort-order.ini"
-          }
-        },
-        {
-          "id": "ingredient-list-type-sort-order.ini",
-          "name": "ingredient-list-type-sort-order.ini",
-          "type": "File",
-          "artifact": {
-            "size": 78,
-            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/ingredient-list-type-sort-order.ini",
-            "MD5": "0328cc64f29f41e751136fade109eaff",
-            "path": "config/jei/ingredient-list-type-sort-order.ini"
-          }
-        },
-        {
-          "id": "jei-client.ini",
-          "name": "jei-client.ini",
-          "type": "File",
-          "artifact": {
-            "size": 9829,
-            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/jei-client.ini",
-            "MD5": "04ac6b052249531ac6ca673a87ef05b3",
-            "path": "config/jei/jei-client.ini"
-          }
-        },
-        {
-          "id": "jei-colors.ini",
-          "name": "jei-colors.ini",
-          "type": "File",
-          "artifact": {
-            "size": 1362,
-            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/jei-colors.ini",
-            "MD5": "2b1d073ff360c11353f0079b7539cb2e",
-            "path": "config/jei/jei-colors.ini"
-          }
-        },
-        {
-          "id": "jei-debug.ini",
-          "name": "jei-debug.ini",
-          "type": "File",
-          "artifact": {
-            "size": 1219,
-            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/jei-debug.ini",
-            "MD5": "84d9e529838f079f6fbb7a9c4d28cef5",
-            "path": "config/jei/jei-debug.ini"
-          }
-        },
-        {
-          "id": "jei-mod-id-format.ini",
-          "name": "jei-mod-id-format.ini",
-          "type": "File",
-          "artifact": {
-            "size": 550,
-            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/jei-mod-id-format.ini",
-            "MD5": "a450b7e5023fe11c0d6f7238aaaf71da",
-            "path": "config/jei/jei-mod-id-format.ini"
-          }
-        },
-        {
-          "id": "recipe-category-sort-order.ini",
-          "name": "recipe-category-sort-order.ini",
-          "type": "File",
-          "artifact": {
-            "size": 1783,
-            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/recipe-category-sort-order.ini",
-            "MD5": "33829ea26b093f171648ffe6067764c9",
-            "path": "config/jei/recipe-category-sort-order.ini"
-          }
-        },
-        {
-          "id": "bookmarks.json",
-          "name": "bookmarks.json",
-          "type": "File",
-          "artifact": {
-            "size": 141,
-            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/world/local/________1/bookmarks.json",
-            "MD5": "a6370d0ea1c76768a48c13f35b44ae10",
-            "path": "config/jei/world/local/________1/bookmarks.json"
-          }
-        },
-        {
-          "id": "bookmarks.json",
-          "name": "bookmarks.json",
-          "type": "File",
-          "artifact": {
-            "size": 828,
-            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/world/server/My_create_b8332793/bookmarks.json",
-            "MD5": "f10af60a06832b57d437cad81ac5eeb7",
-            "path": "config/jei/world/server/My_create_b8332793/bookmarks.json"
           }
         },
         {
