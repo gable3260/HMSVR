@@ -11,7 +11,7 @@
       "id": "Create-1.21.1",
       "name": "HM Create",
       "description": "Create Running Minecraft 1.21.1 (NeoForge v21.1.209)",
-      "icon": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/Icon.png",
+      "icon": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/icon.png",
       "version": "1.0.0",
       "address": "hmsvr.kro.kr",
       "minecraftVersion": "1.21.1",
