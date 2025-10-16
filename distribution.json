@@ -11,7 +11,7 @@
       "id": "Create-1.21.1",
       "name": "HM Create",
       "description": "Create Running Minecraft 1.21.1 (NeoForge v21.1.209)",
-      "icon": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/icon.png",
+      "icon": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/icon.png",
       "version": "1.0.0",
       "address": "hmsvr.kro.kr",
       "minecraftVersion": "1.21.1",
@@ -31,7 +31,7 @@
           "artifact": {
             "size": 3523966,
             "MD5": "df7cf6c016f62a337a9504a556ced66d",
-            "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/neoforge/21.1.209/neoforge-21.1.209-universal.jar"
+            "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/neoforge/21.1.209/neoforge-21.1.209-universal.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 21148,
                 "MD5": "34007c42f71a895ca838e471b858c604",
-                "url": "https://github.com/gable3260/HMSVR/repo/versions/neoforge-21.1.209/neoforge-21.1.209.json"
+                "url": "https://gable3260.github.io/HMSVR/repo/versions/neoforge-21.1.209/neoforge-21.1.209.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 5663899,
                 "MD5": "a0b2604ca0ab28d7c43f476fcbc2f395",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/neoforge/21.1.209/neoforge-21.1.209-client.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/neoforge/21.1.209/neoforge-21.1.209-client.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 12372293,
                 "MD5": "973b9700852b66bb7b74df75b0113db2",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 14464635,
                 "MD5": "21a31126d805df21389e0b2ff8cb7411",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 18725656,
                 "MD5": "24d790d385dff0146020f1875b969e52",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar"
               },
               "subModules": []
             },
@@ -99,7 +99,7 @@
               "artifact": {
                 "size": 261715,
                 "MD5": "75827860b30b162b43a937b9330cff8f",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/fancymodloader/earlydisplay/4.0.41/earlydisplay-4.0.41.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/fancymodloader/earlydisplay/4.0.41/earlydisplay-4.0.41.jar"
               }
             },
             {
@@ -109,7 +109,7 @@
               "artifact": {
                 "size": 504881,
                 "MD5": "9060c908cf4a8effeaa790dc337f1b0c",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/fancymodloader/loader/4.0.41/loader-4.0.41.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/fancymodloader/loader/4.0.41/loader-4.0.41.jar"
               }
             },
             {
@@ -119,7 +119,7 @@
               "artifact": {
                 "size": 2347,
                 "MD5": "f65434f122b97b1ac8fe56ff54873b5f",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar"
               }
             },
             {
@@ -129,7 +129,7 @@
               "artifact": {
                 "size": 67234,
                 "MD5": "3a01a09a2b0900381dce48e118882849",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar"
               }
             },
             {
@@ -139,7 +139,7 @@
               "artifact": {
                 "size": 30340,
                 "MD5": "95eee080d9de7cb764adcb8fa2ecf3fb",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/bus/8.0.5/bus-8.0.5.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/bus/8.0.5/bus-8.0.5.jar"
               }
             },
             {
@@ -149,7 +149,7 @@
               "artifact": {
                 "size": 22659,
                 "MD5": "4527abf6b7116dae1c2178f7beab0ba2",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/coremods/7.0.3/coremods-7.0.3.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/coremods/7.0.3/coremods-7.0.3.jar"
               }
             },
             {
@@ -159,7 +159,7 @@
               "artifact": {
                 "size": 116486,
                 "MD5": "70fa994f64b2620d20dc325bab758d1b",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar"
               }
             },
             {
@@ -169,7 +169,7 @@
               "artifact": {
                 "size": 2550,
                 "MD5": "818b398f65b8dc5af802b721fd1d0b56",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
               }
             },
             {
@@ -179,7 +179,7 @@
               "artifact": {
                 "size": 39516,
                 "MD5": "71c9f7b86422f206c0d78c1a0600fd3a",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/com/electronwill/night-config/toml/3.8.3/toml-3.8.3.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/com/electronwill/night-config/toml/3.8.3/toml-3.8.3.jar"
               }
             },
             {
@@ -189,7 +189,7 @@
               "artifact": {
                 "size": 382911,
                 "MD5": "a69db71d5c9c274ff08f175d7c12cb1a",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/com/electronwill/night-config/core/3.8.3/core-3.8.3.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/com/electronwill/night-config/core/3.8.3/core-3.8.3.jar"
               }
             },
             {
@@ -199,7 +199,7 @@
               "artifact": {
                 "size": 17168,
                 "MD5": "20d1fe8972655189f69845554ee1a4d1",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/JarJarSelector/0.4.1/JarJarSelector-0.4.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/JarJarSelector/0.4.1/JarJarSelector-0.4.1.jar"
               }
             },
             {
@@ -209,7 +209,7 @@
               "artifact": {
                 "size": 15648,
                 "MD5": "c2f30969dd8b1dc8e3f78c731bd2c5c8",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/JarJarMetadata/0.4.1/JarJarMetadata-0.4.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/JarJarMetadata/0.4.1/JarJarMetadata-0.4.1.jar"
               }
             },
             {
@@ -219,7 +219,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -229,7 +229,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -239,7 +239,7 @@
               "artifact": {
                 "size": 16949,
                 "MD5": "179d3abaf9736dbd8fbd4fa98e1c6ea1",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar"
               }
             },
             {
@@ -249,7 +249,7 @@
               "artifact": {
                 "size": 1494751,
                 "MD5": "4808c070bf19415a5cb4a0cb5e569b12",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar"
               }
             },
             {
@@ -259,7 +259,7 @@
               "artifact": {
                 "size": 2167292,
                 "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
@@ -269,7 +269,7 @@
               "artifact": {
                 "size": 657952,
                 "MD5": "4e5c3f5e6b0b965ef241d7d72ac8971f",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar"
               }
             },
             {
@@ -279,7 +279,7 @@
               "artifact": {
                 "size": 11116,
                 "MD5": "169bd8c006e69d83267466e311d4049d",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar"
               }
             },
             {
@@ -289,7 +289,7 @@
               "artifact": {
                 "size": 103765,
                 "MD5": "eb0d5290a2681c2dbeb8088b82e0fbf9",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar"
               }
             },
             {
@@ -299,7 +299,7 @@
               "artifact": {
                 "size": 73498,
                 "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
@@ -309,7 +309,7 @@
               "artifact": {
                 "size": 94559,
                 "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
@@ -319,7 +319,7 @@
               "artifact": {
                 "size": 35151,
                 "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -329,7 +329,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
@@ -339,7 +339,7 @@
               "artifact": {
                 "size": 126113,
                 "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
@@ -349,7 +349,7 @@
               "artifact": {
                 "size": 31807,
                 "MD5": "8d75021e5aeb04652b4b9ae3df500b9e",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar"
               }
             },
             {
@@ -359,7 +359,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -369,7 +369,7 @@
               "artifact": {
                 "size": 64579,
                 "MD5": "45630e54b0f0ac2b3c80462515ad8fda",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
               }
             },
             {
@@ -379,7 +379,7 @@
               "artifact": {
                 "size": 326305,
                 "MD5": "dd465ddb2a8dbf69eb6c94e69a0d5f0f",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/antlr/antlr4-runtime/4.13.1/antlr4-runtime-4.13.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/antlr/antlr4-runtime/4.13.1/antlr4-runtime-4.13.1.jar"
               }
             },
             {
@@ -389,7 +389,7 @@
               "artifact": {
                 "size": 15343,
                 "MD5": "d01ea99740509a58222a426cc36f5456",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/com/mojang/logging/1.2.7/logging-1.2.7.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/com/mojang/logging/1.2.7/logging-1.2.7.jar"
               }
             },
             {
@@ -399,7 +399,7 @@
               "artifact": {
                 "size": 27364,
                 "MD5": "82cc94f378ffb853efe084ee9bf4c463",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar"
               }
             },
             {
@@ -409,7 +409,7 @@
               "artifact": {
                 "size": 1900022,
                 "MD5": "b5987ee449d4be4244e2e214683c45af",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar"
               }
             },
             {
@@ -419,7 +419,7 @@
               "artifact": {
                 "size": 335001,
                 "MD5": "27db0eb89ae965179480df00d8d1cf03",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar"
               }
             },
             {
@@ -429,7 +429,7 @@
               "artifact": {
                 "size": 171052,
                 "MD5": "9ece57ca56a1688d1d09fe2c48e7a292",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/jline/jline-reader/3.20.0/jline-reader-3.20.0.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/jline/jline-reader/3.20.0/jline-reader-3.20.0.jar"
               }
             },
             {
@@ -439,7 +439,7 @@
               "artifact": {
                 "size": 228481,
                 "MD5": "e45dace437743e6b5e75c81eb455fd3e",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.jar"
               }
             },
             {
@@ -449,7 +449,7 @@
               "artifact": {
                 "size": 501218,
                 "MD5": "84351f7991a0e6722f00e96a4ccc376f",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar"
               }
             },
             {
@@ -459,7 +459,7 @@
               "artifact": {
                 "size": 69393,
                 "MD5": "79812fd073afe1c046bc1ea46ad28095",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar"
               }
             },
             {
@@ -469,7 +469,7 @@
               "artifact": {
                 "size": 3041591,
                 "MD5": "5fe031b3b35ed56182478811a931d617",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
               }
             },
             {
@@ -479,7 +479,7 @@
               "artifact": {
                 "size": 4617,
                 "MD5": "091883993ef5bfa91da01dcc8fc52236",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
               }
             },
             {
@@ -489,7 +489,7 @@
               "artifact": {
                 "size": 2199,
                 "MD5": "d094c22570d65e132c19cea5d352e381",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
               }
             },
             {
@@ -499,7 +499,7 @@
               "artifact": {
                 "size": 19936,
                 "MD5": "dd83accb899363c32b07d7a1b2e4ce40",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
               }
             },
             {
@@ -509,7 +509,7 @@
               "artifact": {
                 "size": 223979,
                 "MD5": "fc9418b779d9d57dcd52197006cbdb9b",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar"
               }
             },
             {
@@ -519,7 +519,7 @@
               "artifact": {
                 "size": 16017,
                 "MD5": "64145d0e7fee5a69ed7b84cf402de998",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar"
               }
             },
             {
@@ -529,7 +529,7 @@
               "artifact": {
                 "size": 9301,
                 "MD5": "c50af69b704dc91050efb98e0dff66d1",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar"
               }
             },
             {
@@ -539,7 +539,7 @@
               "artifact": {
                 "size": 283367,
                 "MD5": "df6097815738cb31fc56391553210843",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
               }
             },
             {
@@ -549,7 +549,7 @@
               "artifact": {
                 "size": 263253,
                 "MD5": "3ae76ff0195ada460d495efe1fb50d17",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar"
               }
             },
             {
@@ -559,7 +559,7 @@
               "artifact": {
                 "size": 250861,
                 "MD5": "fcc3e4df4990088c964f687b62f7c448",
-                "url": "https://github.com/gable3260/HMSVR/repo/lib/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar"
+                "url": "https://gable3260.github.io/HMSVR/repo/lib/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar"
               }
             }
           ]
@@ -570,7 +570,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 74100,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/appleskin-neoforge-mc1.21-3.0.7.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/appleskin-neoforge-mc1.21-3.0.7.jar",
             "MD5": "9b6a8681aa9c871a8816a39d614034c6"
           }
         },
@@ -580,7 +580,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 584004,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/architectury-13.0.8-neoforge.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/architectury-13.0.8-neoforge.jar",
             "MD5": "7a45a948b525c031ca85d221dfdbed85"
           }
         },
@@ -590,7 +590,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 581424,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/balm-neoforge-1.21.1-21.0.54.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/balm-neoforge-1.21.1-21.0.54.jar",
             "MD5": "4867bc98cbf1bf0cc7f3fdbe3ad8b9ac"
           }
         },
@@ -600,7 +600,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 193619,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/bellsandwhistles-0.4.7-1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/bellsandwhistles-0.4.7-1.21.1.jar",
             "MD5": "5f4d8adfa8bf7407fb387a93ea408848"
           }
         },
@@ -610,7 +610,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22742,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/betterfpsdist-1.21-6.0.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/betterfpsdist-1.21-6.0.jar",
             "MD5": "081882282efe6239ac294b2d1fe2cd22"
           }
         },
@@ -620,7 +620,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1558087,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/BrewinAndChewin-neoforge-4.4.1+1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/BrewinAndChewin-neoforge-4.4.1+1.21.1.jar",
             "MD5": "e65cb930f9fca94c005365527a9ad178"
           }
         },
@@ -630,7 +630,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 165026,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/optionalon/caramelChat-mc1.21.1-neoforge-1.2.2.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/optionalon/caramelChat-mc1.21.1-neoforge-1.2.2.jar",
             "MD5": "1df3413d9f3dc6fa819e388bba54f3da"
           },
           "required": {
@@ -643,7 +643,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 85010,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/chat_heads-0.14.0-neoforge-1.21.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/chat_heads-0.14.0-neoforge-1.21.jar",
             "MD5": "4d2a75f5bf48612bbffd833398f5125f"
           }
         },
@@ -653,7 +653,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18382,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/Clumps-neoforge-1.21.1-19.0.0.1.jar",
             "MD5": "8b42a9d7a72bde90fa061d17e2859e7b"
           }
         },
@@ -663,7 +663,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1790416,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/copycats-3.0.2+mc.1.21.1-neoforge.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/copycats-3.0.2+mc.1.21.1-neoforge.jar",
             "MD5": "cde8b4432b19fde830c50ce07a2b89b9"
           }
         },
@@ -673,7 +673,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 63981,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/coroutil-neoforge-1.21.0-1.3.8.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/coroutil-neoforge-1.21.0-1.3.8.jar",
             "MD5": "9d410a84fe0216ce18568993afb4f8e5"
           }
         },
@@ -683,7 +683,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 92722,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
             "MD5": "881eb025d54ca01165c115a38a8d48c4"
           }
         },
@@ -693,7 +693,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1001913,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/create_aquatic_ambitions-1.21.1-2.0.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/create_aquatic_ambitions-1.21.1-2.0.1.jar",
             "MD5": "5c023bb12278a8ef6142ea30fec98146"
           }
         },
@@ -703,7 +703,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 255166,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/create_deep_dark-2.1.0-neoforge-1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/create_deep_dark-2.1.0-neoforge-1.21.1.jar",
             "MD5": "47e3329e5539c9faad9fc1a003f5bc1d"
           }
         },
@@ -713,7 +713,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 514394,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/create_furnitures-1.1.2-neoforge-1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/create_furnitures-1.1.2-neoforge-1.21.1.jar",
             "MD5": "1618cba8108eb25c4ac95f1c3fa02fe6"
           }
         },
@@ -723,7 +723,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 421892,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
             "MD5": "4b9fb312b0e22e848fc3bf27f121a5f1"
           }
         },
@@ -733,7 +733,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2180134,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/create_jetpack-forge-5.1.0.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/create_jetpack-forge-5.1.0.jar",
             "MD5": "617082e7c46ca0b6782a36e8f1b9721c"
           }
         },
@@ -743,7 +743,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 522689,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/create_mechanical_extruder-1.21.1-2.1.2-6.0.6.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/create_mechanical_extruder-1.21.1-2.1.2-6.0.6.jar",
             "MD5": "302bb32f5fafccfc0e2556c15a9b3952"
           }
         },
@@ -753,7 +753,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 377838,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/create_mobile_packages-1.21.1-0.5.5.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/create_mobile_packages-1.21.1-0.5.5.jar",
             "MD5": "e5b40346f51892ee8f5e0478444658b5"
           }
         },
@@ -763,7 +763,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18599196,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/create-1.21.1-6.0.6.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/create-1.21.1-6.0.6.jar",
             "MD5": "39db2efac7c0482c2c1bfdbaaab317b3"
           }
         },
@@ -773,7 +773,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 641127,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/create-dragons-plus-1.8.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/create-dragons-plus-1.8.1.jar",
             "MD5": "d9eb68ad935a99288aae8e46c1440294"
           }
         },
@@ -783,7 +783,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 678703,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/create-enchantment-industry-2.2.3.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/create-enchantment-industry-2.2.3.jar",
             "MD5": "34756cad14087aa9caa9777ebb8dff55"
           }
         },
@@ -793,7 +793,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 314266,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/create-integrated-farming-1.1.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/create-integrated-farming-1.1.1.jar",
             "MD5": "52014ed191c96dc2dc3ac240ace12998"
           }
         },
@@ -803,7 +803,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 730611,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/Create%20More%20Recipes-1.21.1-1.2.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/Create%20More%20Recipes-1.21.1-1.2.1.jar",
             "MD5": "ac814cf1fe1494e783f0991a19b8156a"
           }
         },
@@ -813,7 +813,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1605682,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/createaddition-1.5.4.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/createaddition-1.5.4.jar",
             "MD5": "f640c2e3a5c1e1fc4658da9ef24edae7"
           }
         },
@@ -823,7 +823,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26171,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/createbetterfps-1.21.1-1.1.3.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/createbetterfps-1.21.1-1.1.3.jar",
             "MD5": "dfb12a23ceaf443cb0d10b1f578a19f8"
           }
         },
@@ -833,7 +833,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3133689,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/createdieselgenerators-1.21.1-1.3.5.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/createdieselgenerators-1.21.1-1.3.5.jar",
             "MD5": "38145a6d563a8d8e510eb5a7080d273c"
           }
         },
@@ -843,7 +843,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 571408,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/createenchantablemachinery-3.4.2+mc1.21.1-neoforge.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/createenchantablemachinery-3.4.2+mc1.21.1-neoforge.jar",
             "MD5": "70a56bf593871c9be2246d631612e290"
           }
         },
@@ -853,7 +853,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7201146,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/createfood-neoforge-1.21.1-2.0.0-beta-3.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/createfood-neoforge-1.21.1-2.0.0-beta-3.jar",
             "MD5": "d252d1d14d588947a02601f0e33ec37b"
           }
         },
@@ -863,7 +863,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 180932,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
             "MD5": "9d8f25a3de56e8106502ab0e0ca17925"
           }
         },
@@ -873,7 +873,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18140,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/createliquidfuel-2.1.1-1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/createliquidfuel-2.1.1-1.21.1.jar",
             "MD5": "40493b83833af97c8d717084b61e7d62"
           }
         },
@@ -883,7 +883,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23509,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/cupboard-1.21-2.9.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/cupboard-1.21-2.9.jar",
             "MD5": "9cc5caf701898ba7236ca1e841d9049b"
           }
         },
@@ -893,7 +893,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 410690,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/curios-neoforge-9.5.1+1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/curios-neoforge-9.5.1+1.21.1.jar",
             "MD5": "e8f0a3574264bb202c153b90293dc84c"
           }
         },
@@ -903,7 +903,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 433238,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/DecorativeBlocks-Reborn-neoforge-1.21.1-6.0.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/DecorativeBlocks-Reborn-neoforge-1.21.1-6.0.1.jar",
             "MD5": "6a1680e31b3f0292f1059d42f1f75572"
           }
         },
@@ -913,7 +913,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27712,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/depub.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/depub.jar",
             "MD5": "e28f87e286e54d60bc50efade78ee34d"
           }
         },
@@ -923,7 +923,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 753703,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/displaydelight-1.3.0.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/displaydelight-1.3.0.jar",
             "MD5": "eb55f00c1529bd0933336d632618f309"
           }
         },
@@ -933,7 +933,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 540641,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/expandeddelight-0.1.3.2.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/expandeddelight-0.1.3.2.jar",
             "MD5": "b21bfcfa631785b79ebfec92cc4d6fae"
           }
         },
@@ -943,7 +943,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2964387,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/FarmersDelight-1.21.1-1.2.9.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/FarmersDelight-1.21.1-1.2.9.jar",
             "MD5": "7c500c9525ee5e872f14ccd1db21ee15"
           }
         },
@@ -953,7 +953,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11050,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/fastasyncworldsave-1.21-2.6.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/fastasyncworldsave-1.21-2.6.jar",
             "MD5": "4df9371b5466dfbb56c375f4963f2845"
           }
         },
@@ -963,7 +963,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4283886,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/FramedBlocks-10.5.0.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/FramedBlocks-10.5.0.jar",
             "MD5": "5a79d984b62fffb14215960f6931b76b"
           }
         },
@@ -973,7 +973,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 615677,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/ftb-chunks-neoforge-2101.1.11.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/ftb-chunks-neoforge-2101.1.11.jar",
             "MD5": "ca83e32fc9e7da6677bbb25a16d76c14"
           }
         },
@@ -983,7 +983,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1387243,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/ftb-library-neoforge-2101.1.21.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/ftb-library-neoforge-2101.1.21.jar",
             "MD5": "5a381359c009b2201dd98e9121bd21fa"
           }
         },
@@ -993,7 +993,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 266167,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/ftb-teams-neoforge-2101.1.4.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/ftb-teams-neoforge-2101.1.4.jar",
             "MD5": "6209e9473133a27f4cef7ef0de952188"
           }
         },
@@ -1003,7 +1003,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1936882,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/ftbbackups2-neoforge-1.21-1.0.28.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/ftbbackups2-neoforge-1.21-1.0.28.jar",
             "MD5": "ed1a0d8d71a44e84d7c9eeb561cfb1a4"
           }
         },
@@ -1013,7 +1013,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2438548,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/iris-neoforge-1.8.12+mc1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/iris-neoforge-1.8.12+mc1.21.1.jar",
             "MD5": "6c1122aa7c2b1a4f24831e394c5b513f"
           }
         },
@@ -1023,7 +1023,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 725736,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/Jade-1.21.1-NeoForge-15.10.3.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/Jade-1.21.1-NeoForge-15.10.3.jar",
             "MD5": "4c3891e2160079f270029c004ba3f562"
           }
         },
@@ -1033,7 +1033,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1450209,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/jei-1.21.1-neoforge-19.21.2.313.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/jei-1.21.1-neoforge-19.21.2.313.jar",
             "MD5": "f5bbaf5e7cff7464d71032be534dd0af"
           }
         },
@@ -1043,7 +1043,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24449,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar",
             "MD5": "e282ec9c33434d5d083f6b37fec091af"
           }
         },
@@ -1053,7 +1053,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 292088,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
             "MD5": "3e18cab0cb7ee834573e6b20dcb5543f"
           }
         },
@@ -1063,7 +1063,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 43798,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
             "MD5": "3c28fc81aa5a9be514905e6c88e02d6d"
           }
         },
@@ -1073,7 +1073,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 618842,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/konkrete_neoforge_1.9.9_MC_1.21.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/konkrete_neoforge_1.9.9_MC_1.21.jar",
             "MD5": "6e77d08299ea1ec7756a299263bc469b"
           }
         },
@@ -1083,7 +1083,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6730194,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/kotlinforforge-5.10.0-all.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/kotlinforforge-5.10.0-all.jar",
             "MD5": "0d0d14c17956ba4a042d47b75e0b6831"
           }
         },
@@ -1093,7 +1093,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 621328,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/libIPN-neoforge-1.21-6.6.0.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/libIPN-neoforge-1.21-6.6.0.jar",
             "MD5": "b1be2acd2662297121e351d471487e84"
           }
         },
@@ -1103,7 +1103,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 560194,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/lootr-neoforge-1.21-1.10.35.91.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/lootr-neoforge-1.21-1.10.35.91.jar",
             "MD5": "75a486c691b1a56064f1624ac4b20f80"
           }
         },
@@ -1113,7 +1113,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1871870,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/mcw-furniture-3.3.0-mc1.21.1neoforge.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/mcw-furniture-3.3.0-mc1.21.1neoforge.jar",
             "MD5": "e6005c71ca56881998fed11109b68206"
           }
         },
@@ -1123,7 +1123,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 495934,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/mechanicals-1.21.1-1.0.12.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/mechanicals-1.21.1-1.0.12.jar",
             "MD5": "8ab51febeb8e5207e2cb4d0fe35787e9"
           }
         },
@@ -1133,7 +1133,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 73938,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
             "MD5": "4ab6e808a59fdebecfbc92438b85b470"
           }
         },
@@ -1143,7 +1143,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 211972,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/netherportalfix-neoforge-1.21.1-21.1.1.jar",
             "MD5": "a71d460c1d941bad8d7ae2a4dcc2b2fa"
           }
         },
@@ -1153,7 +1153,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 306668,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
             "MD5": "07496752e6b64dd33d68cd5166818402"
           }
         },
@@ -1163,7 +1163,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1297829,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/polylib-2100.0.3-build.172-neoforge.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/polylib-2100.0.3-build.172-neoforge.jar",
             "MD5": "35bf58438ebb5b7594b910af97f2c2d1"
           }
         },
@@ -1173,7 +1173,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 78451,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
             "MD5": "f3a0d7f31993d6f34e90f816f82cbcaf"
           }
         },
@@ -1183,7 +1183,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 406049,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/sliceanddice-forge-4.1.2.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/sliceanddice-forge-4.1.2.jar",
             "MD5": "8f693f81de0fa4c6d7232a82b391715c"
           }
         },
@@ -1193,7 +1193,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1162994,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/sodium-neoforge-0.6.13+mc1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/sodium-neoforge-0.6.13+mc1.21.1.jar",
             "MD5": "e5018c782d851fea76be0205b7616e5d"
           }
         },
@@ -1203,7 +1203,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 299353,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
             "MD5": "daaa3a9e438fddffc1db19bf8a7dfba0"
           }
         },
@@ -1213,7 +1213,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 309122,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
             "MD5": "1411af8defb5136119d3cf706d3d9cd8"
           }
         },
@@ -1223,7 +1223,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 973643,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/sophisticatedbackpacks-1.21.1-3.25.9.1390.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/sophisticatedbackpacks-1.21.1-3.25.9.1390.jar",
             "MD5": "18c3fd0116f72f89e1154e33e0c4a403"
           }
         },
@@ -1233,7 +1233,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 82292,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/sophisticatedbackpackscreateintegration-1.21.1-0.1.4.23.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/sophisticatedbackpackscreateintegration-1.21.1-0.1.4.23.jar",
             "MD5": "336da9ade1ce570850ba881399d93518"
           }
         },
@@ -1243,7 +1243,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1485320,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/sophisticatedcore-1.21.1-1.3.87.1229.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/sophisticatedcore-1.21.1-1.3.87.1229.jar",
             "MD5": "7bb0b05310aabe22e5bf41d733532bf3"
           }
         },
@@ -1253,7 +1253,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 472865,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/storagedelight-25.06.24-1.21-neoforge.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/storagedelight-25.06.24-1.21-neoforge.jar",
             "MD5": "3e082467f0e570760e15105a7dad0524"
           }
         },
@@ -1263,7 +1263,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1131419,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/forgemods/required/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
             "MD5": "dabc8395767c993960db28b301bfbcf1"
           }
         },
@@ -1273,7 +1273,7 @@
           "type": "File",
           "artifact": {
             "size": 1376,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/appleskin-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/appleskin-client.toml",
             "MD5": "94c0854d749d20069783913cf035ca31",
             "path": "config/appleskin-client.toml"
           }
@@ -1284,7 +1284,7 @@
           "type": "File",
           "artifact": {
             "size": 697,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/betterfpsdist.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/betterfpsdist.json",
             "MD5": "40c3a07479a3ca023b5c5bd604ee25c0",
             "path": "config/betterfpsdist.json"
           }
@@ -1295,7 +1295,7 @@
           "type": "File",
           "artifact": {
             "size": 1076,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/brewinandchewin-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/brewinandchewin-client.toml",
             "MD5": "66f9fd7193d608f3989464deabf5d840",
             "path": "config/brewinandchewin-client.toml"
           }
@@ -1306,7 +1306,7 @@
           "type": "File",
           "artifact": {
             "size": 1346,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/brewinandchewin-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/brewinandchewin-common.toml",
             "MD5": "1bf521e764d6be539aafe336468710c8",
             "path": "config/brewinandchewin-common.toml"
           }
@@ -1317,7 +1317,7 @@
           "type": "File",
           "artifact": {
             "size": 340,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/copycats-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/copycats-client.toml",
             "MD5": "7acb10458e9f27041f1f48c8c13ff868",
             "path": "config/copycats-client.toml"
           }
@@ -1328,7 +1328,7 @@
           "type": "File",
           "artifact": {
             "size": 2165,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/copycats-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/copycats-common.toml",
             "MD5": "45f56b2190977024714b931827dc58d6",
             "path": "config/copycats-common.toml"
           }
@@ -1339,7 +1339,7 @@
           "type": "File",
           "artifact": {
             "size": 363,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/copycats-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/copycats-server.toml",
             "MD5": "d94bca0ada5588b27433f93470c8deeb",
             "path": "config/copycats-server.toml"
           }
@@ -1350,7 +1350,7 @@
           "type": "File",
           "artifact": {
             "size": 129,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/CoroUtil/General.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/CoroUtil/General.toml",
             "MD5": "e89054829f589efab442167898ecfd29",
             "path": "config/CoroUtil/General.toml"
           }
@@ -1361,7 +1361,7 @@
           "type": "File",
           "artifact": {
             "size": 1328,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/cosmeticarmorreworked-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/cosmeticarmorreworked-client.toml",
             "MD5": "3e992cf540011ddb7c20c8fcddb2dc0f",
             "path": "config/cosmeticarmorreworked-client.toml"
           }
@@ -1372,7 +1372,7 @@
           "type": "File",
           "artifact": {
             "size": 375,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/cosmeticarmorreworked-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/cosmeticarmorreworked-common.toml",
             "MD5": "6224d1a38cce149d06494c7197d8f450",
             "path": "config/cosmeticarmorreworked-common.toml"
           }
@@ -1383,7 +1383,7 @@
           "type": "File",
           "artifact": {
             "size": 4701,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create-client.toml",
             "MD5": "a08c684272438ebfbfb11e90a59d4876",
             "path": "config/create-client.toml"
           }
@@ -1394,7 +1394,7 @@
           "type": "File",
           "artifact": {
             "size": 153,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create-common.toml",
             "MD5": "9dabf53d32493d67b0d8985fb72ad083",
             "path": "config/create-common.toml"
           }
@@ -1405,7 +1405,7 @@
           "type": "File",
           "artifact": {
             "size": 16741,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create-server.toml",
             "MD5": "702117e6e83834b52b7c11c775cc3c57",
             "path": "config/create-server.toml"
           }
@@ -1416,7 +1416,7 @@
           "type": "File",
           "artifact": {
             "size": 5285,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/createaddition-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/createaddition-common.toml",
             "MD5": "59a55cdbc6e244df2fb481d73eb58ff9",
             "path": "config/createaddition-common.toml"
           }
@@ -1427,7 +1427,7 @@
           "type": "File",
           "artifact": {
             "size": 243,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/createdieselgenerators-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/createdieselgenerators-client.toml",
             "MD5": "b22fb409adca86271420c2ab4fb5a1b8",
             "path": "config/createdieselgenerators-client.toml"
           }
@@ -1438,7 +1438,7 @@
           "type": "File",
           "artifact": {
             "size": 407,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/createdieselgenerators-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/createdieselgenerators-common.toml",
             "MD5": "395ac1789cf62ac53317eee412422c37",
             "path": "config/createdieselgenerators-common.toml"
           }
@@ -1449,7 +1449,7 @@
           "type": "File",
           "artifact": {
             "size": 1210,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/createdieselgenerators-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/createdieselgenerators-server.toml",
             "MD5": "7c05e2eb7d8e73db00c43efb3e3eb1c9",
             "path": "config/createdieselgenerators-server.toml"
           }
@@ -1460,7 +1460,7 @@
           "type": "File",
           "artifact": {
             "size": 20,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/createenchantablemachinery-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/createenchantablemachinery-client.toml",
             "MD5": "da1dd97c80360d038e6c886779f5d7a5",
             "path": "config/createenchantablemachinery-client.toml"
           }
@@ -1471,7 +1471,7 @@
           "type": "File",
           "artifact": {
             "size": 604,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/createenchantablemachinery-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/createenchantablemachinery-common.toml",
             "MD5": "d07b63e5b7930030ee6960382e2d3ad0",
             "path": "config/createenchantablemachinery-common.toml"
           }
@@ -1482,7 +1482,7 @@
           "type": "File",
           "artifact": {
             "size": 49,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/createfood.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/createfood.toml",
             "MD5": "76e54cd6b7be023544b590ce700c0ee9",
             "path": "config/createfood.toml"
           }
@@ -1493,7 +1493,7 @@
           "type": "File",
           "artifact": {
             "size": 224,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/creategoggles-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/creategoggles-client.toml",
             "MD5": "5a24228fb16a04b904116a3595d5a3a2",
             "path": "config/creategoggles-client.toml"
           }
@@ -1504,7 +1504,7 @@
           "type": "File",
           "artifact": {
             "size": 349,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/creategoggles-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/creategoggles-common.toml",
             "MD5": "2fec2cf6f1792a207ec70092b8dde4b6",
             "path": "config/creategoggles-common.toml"
           }
@@ -1515,7 +1515,7 @@
           "type": "File",
           "artifact": {
             "size": 922,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_aquatic_ambitions-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_aquatic_ambitions-server.toml",
             "MD5": "7956680d2756caa5fe529fa0f1b5da74",
             "path": "config/create_aquatic_ambitions-server.toml"
           }
@@ -1526,7 +1526,7 @@
           "type": "File",
           "artifact": {
             "size": 216,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_deep_dark-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_deep_dark-common.toml",
             "MD5": "428021f1fe72e623c1398c1d7e08a629",
             "path": "config/create_deep_dark-common.toml"
           }
@@ -1537,7 +1537,7 @@
           "type": "File",
           "artifact": {
             "size": 302,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_dragons_plus-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_dragons_plus-client.toml",
             "MD5": "6b8fbe36f26b016cc951f65ec5874b8f",
             "path": "config/create_dragons_plus-client.toml"
           }
@@ -1548,7 +1548,7 @@
           "type": "File",
           "artifact": {
             "size": 1454,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_dragons_plus-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_dragons_plus-common.toml",
             "MD5": "9f1ac7ba10672d777f2b6e44f2f2929c",
             "path": "config/create_dragons_plus-common.toml"
           }
@@ -1559,7 +1559,7 @@
           "type": "File",
           "artifact": {
             "size": 353,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_dragons_plus-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_dragons_plus-server.toml",
             "MD5": "ce76b77c89edb4efcd6e44a4f872c622",
             "path": "config/create_dragons_plus-server.toml"
           }
@@ -1570,7 +1570,7 @@
           "type": "File",
           "artifact": {
             "size": 155,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_enchantment_industry-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_enchantment_industry-client.toml",
             "MD5": "3efa450d7f86b5804b2d90d311487e78",
             "path": "config/create_enchantment_industry-client.toml"
           }
@@ -1581,7 +1581,7 @@
           "type": "File",
           "artifact": {
             "size": 6293,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_enchantment_industry-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_enchantment_industry-server.toml",
             "MD5": "b3ca8c04948ce3f17dfa2a5b73fa859d",
             "path": "config/create_enchantment_industry-server.toml"
           }
@@ -1592,7 +1592,7 @@
           "type": "File",
           "artifact": {
             "size": 2238,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_integrated_farming-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_integrated_farming-server.toml",
             "MD5": "a9aa8986213ffab61a444dfef129abb3",
             "path": "config/create_integrated_farming-server.toml"
           }
@@ -1603,7 +1603,7 @@
           "type": "File",
           "artifact": {
             "size": 334,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_jetpack-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_jetpack-client.toml",
             "MD5": "a2445f2df986a3ff61699e49384bbab7",
             "path": "config/create_jetpack-client.toml"
           }
@@ -1614,7 +1614,7 @@
           "type": "File",
           "artifact": {
             "size": 578,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_jetpack-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_jetpack-common.toml",
             "MD5": "95701dbf772b750d51a958903cef1d7c",
             "path": "config/create_jetpack-common.toml"
           }
@@ -1625,7 +1625,7 @@
           "type": "File",
           "artifact": {
             "size": 679,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_mechanical_extruder-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_mechanical_extruder-server.toml",
             "MD5": "f2b1069bef8509a1f9347e1d58e93188",
             "path": "config/create_mechanical_extruder-server.toml"
           }
@@ -1636,7 +1636,7 @@
           "type": "File",
           "artifact": {
             "size": 787,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/create_mobile_packages-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/create_mobile_packages-server.toml",
             "MD5": "70de012c31467387c2f9b31f699b59dd",
             "path": "config/create_mobile_packages-server.toml"
           }
@@ -1647,7 +1647,7 @@
           "type": "File",
           "artifact": {
             "size": 1090,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/cupboard.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/cupboard.json",
             "MD5": "7725e2ad17f08b6221f0ecdeda137888",
             "path": "config/cupboard.json"
           }
@@ -1658,7 +1658,7 @@
           "type": "File",
           "artifact": {
             "size": 766,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/curios-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/curios-client.toml",
             "MD5": "ee14fd895a3051e9e1f676bcab855d93",
             "path": "config/curios-client.toml"
           }
@@ -1669,7 +1669,7 @@
           "type": "File",
           "artifact": {
             "size": 159,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/curios-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/curios-common.toml",
             "MD5": "0addc1c3c75406e6ed98709885d58d7c",
             "path": "config/curios-common.toml"
           }
@@ -1680,7 +1680,7 @@
           "type": "File",
           "artifact": {
             "size": 483,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/curios-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/curios-server.toml",
             "MD5": "3d9e748bba95ccb5983ee30504323e5d",
             "path": "config/curios-server.toml"
           }
@@ -1691,7 +1691,7 @@
           "type": "File",
           "artifact": {
             "size": 617,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/displaydelight-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/displaydelight-common.toml",
             "MD5": "3ba467c78bfacec4701c365439b09ff3",
             "path": "config/displaydelight-common.toml"
           }
@@ -1702,7 +1702,7 @@
           "type": "File",
           "artifact": {
             "size": 129,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/expandeddelight-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/expandeddelight-common.toml",
             "MD5": "925907f1d7f57fc7e2ce11b1ac2715ff",
             "path": "config/expandeddelight-common.toml"
           }
@@ -1713,7 +1713,7 @@
           "type": "File",
           "artifact": {
             "size": 365,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/farmersdelight-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/farmersdelight-client.toml",
             "MD5": "b64debae81add85acd1278dc9778fa14",
             "path": "config/farmersdelight-client.toml"
           }
@@ -1724,7 +1724,7 @@
           "type": "File",
           "artifact": {
             "size": 4713,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/farmersdelight-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/farmersdelight-common.toml",
             "MD5": "8a898a33af8262ace02519f068408a10",
             "path": "config/farmersdelight-common.toml"
           }
@@ -1735,7 +1735,7 @@
           "type": "File",
           "artifact": {
             "size": 637,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/flywheel-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/flywheel-client.toml",
             "MD5": "260ebe66c2c553888c3a5de3f2210264",
             "path": "config/flywheel-client.toml"
           }
@@ -1746,7 +1746,7 @@
           "type": "File",
           "artifact": {
             "size": 1550,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/fml.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/fml.toml",
             "MD5": "61a62e6a2b5b00f324065233e76b9a64",
             "path": "config/fml.toml"
           }
@@ -1757,7 +1757,7 @@
           "type": "File",
           "artifact": {
             "size": 7020,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/framedblocks-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/framedblocks-client.toml",
             "MD5": "14417f5cc9699e85832bf3a2ae044bfb",
             "path": "config/framedblocks-client.toml"
           }
@@ -1768,7 +1768,7 @@
           "type": "File",
           "artifact": {
             "size": 1265,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/framedblocks-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/framedblocks-server.toml",
             "MD5": "50e1f6df3b8c019f4784f3a3a28fc83a",
             "path": "config/framedblocks-server.toml"
           }
@@ -1779,7 +1779,7 @@
           "type": "File",
           "artifact": {
             "size": 3472,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/ftbbackups2.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/ftbbackups2.json",
             "MD5": "d1a14549c5d3d093eb6ebd0dd99a7756",
             "path": "config/ftbbackups2.json"
           }
@@ -1790,7 +1790,7 @@
           "type": "File",
           "artifact": {
             "size": 8971,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/ftbchunks-client.snbt",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/ftbchunks-client.snbt",
             "MD5": "363524ba80f93390a629861669f8d866",
             "path": "config/ftbchunks-client.snbt"
           }
@@ -1801,7 +1801,7 @@
           "type": "File",
           "artifact": {
             "size": 8440,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/ftbchunks-world.snbt",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/ftbchunks-world.snbt",
             "MD5": "f1f92a406ff23cac83649fa99fe50491",
             "path": "config/ftbchunks-world.snbt"
           }
@@ -1812,7 +1812,7 @@
           "type": "File",
           "artifact": {
             "size": 1654,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/ftblibrary-client.snbt",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/ftblibrary-client.snbt",
             "MD5": "3e2655ed9c0c11049a16c8a7a6af25f6",
             "path": "config/ftblibrary-client.snbt"
           }
@@ -1823,7 +1823,7 @@
           "type": "File",
           "artifact": {
             "size": 31,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/iris-excluded.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/iris-excluded.json",
             "MD5": "670592b1394f12ab96d8432f14ac8dd9",
             "path": "config/iris-excluded.json"
           }
@@ -1834,7 +1834,7 @@
           "type": "File",
           "artifact": {
             "size": 332,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/iris.properties",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/iris.properties",
             "MD5": "c68c4489f71c2270403842cea687cc59",
             "path": "config/iris.properties"
           }
@@ -1845,7 +1845,7 @@
           "type": "File",
           "artifact": {
             "size": 149,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jade/hide-blocks.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jade/hide-blocks.json",
             "MD5": "83c9f405ab4ae1427f76ab4a30a16644",
             "path": "config/jade/hide-blocks.json"
           }
@@ -1856,7 +1856,7 @@
           "type": "File",
           "artifact": {
             "size": 243,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jade/hide-entities.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jade/hide-entities.json",
             "MD5": "a52182a33844468228bdbc58dbe5a73a",
             "path": "config/jade/hide-entities.json"
           }
@@ -1867,7 +1867,7 @@
           "type": "File",
           "artifact": {
             "size": 1089,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jade/jade.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jade/jade.json",
             "MD5": "ad37277172d44ee4f0b17d486850c163",
             "path": "config/jade/jade.json"
           }
@@ -1878,7 +1878,7 @@
           "type": "File",
           "artifact": {
             "size": 2226,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jade/plugins.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jade/plugins.json",
             "MD5": "a1d5ef60800ec9f84ffd5d06d242d5d6",
             "path": "config/jade/plugins.json"
           }
@@ -1889,7 +1889,7 @@
           "type": "File",
           "artifact": {
             "size": 2156,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jade/sort-order.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jade/sort-order.json",
             "MD5": "1cc611765d016b6dbc9a066a4d6878fa",
             "path": "config/jade/sort-order.json"
           }
@@ -1900,7 +1900,7 @@
           "type": "File",
           "artifact": {
             "size": 19,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jei/blacklist.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/blacklist.json",
             "MD5": "78f1a39821342258f73e542d9ea40e0f",
             "path": "config/jei/blacklist.json"
           }
@@ -1911,7 +1911,7 @@
           "type": "File",
           "artifact": {
             "size": 623,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jei/ingredient-list-mod-sort-order.ini",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/ingredient-list-mod-sort-order.ini",
             "MD5": "f6b69a8e977f44a2b3df5c86138b43cf",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
@@ -1922,7 +1922,7 @@
           "type": "File",
           "artifact": {
             "size": 78,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jei/ingredient-list-type-sort-order.ini",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/ingredient-list-type-sort-order.ini",
             "MD5": "0328cc64f29f41e751136fade109eaff",
             "path": "config/jei/ingredient-list-type-sort-order.ini"
           }
@@ -1933,7 +1933,7 @@
           "type": "File",
           "artifact": {
             "size": 9829,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jei/jei-client.ini",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/jei-client.ini",
             "MD5": "04ac6b052249531ac6ca673a87ef05b3",
             "path": "config/jei/jei-client.ini"
           }
@@ -1944,7 +1944,7 @@
           "type": "File",
           "artifact": {
             "size": 1362,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jei/jei-colors.ini",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/jei-colors.ini",
             "MD5": "2b1d073ff360c11353f0079b7539cb2e",
             "path": "config/jei/jei-colors.ini"
           }
@@ -1955,7 +1955,7 @@
           "type": "File",
           "artifact": {
             "size": 1219,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jei/jei-debug.ini",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/jei-debug.ini",
             "MD5": "84d9e529838f079f6fbb7a9c4d28cef5",
             "path": "config/jei/jei-debug.ini"
           }
@@ -1966,7 +1966,7 @@
           "type": "File",
           "artifact": {
             "size": 550,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jei/jei-mod-id-format.ini",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/jei-mod-id-format.ini",
             "MD5": "a450b7e5023fe11c0d6f7238aaaf71da",
             "path": "config/jei/jei-mod-id-format.ini"
           }
@@ -1977,7 +1977,7 @@
           "type": "File",
           "artifact": {
             "size": 1783,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jei/recipe-category-sort-order.ini",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/recipe-category-sort-order.ini",
             "MD5": "33829ea26b093f171648ffe6067764c9",
             "path": "config/jei/recipe-category-sort-order.ini"
           }
@@ -1988,7 +1988,7 @@
           "type": "File",
           "artifact": {
             "size": 141,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jei/world/local/________1/bookmarks.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/world/local/________1/bookmarks.json",
             "MD5": "a6370d0ea1c76768a48c13f35b44ae10",
             "path": "config/jei/world/local/________1/bookmarks.json"
           }
@@ -1999,7 +1999,7 @@
           "type": "File",
           "artifact": {
             "size": 828,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jei/world/server/My_create_b8332793/bookmarks.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei/world/server/My_create_b8332793/bookmarks.json",
             "MD5": "f10af60a06832b57d437cad81ac5eeb7",
             "path": "config/jei/world/server/My_create_b8332793/bookmarks.json"
           }
@@ -2010,7 +2010,7 @@
           "type": "File",
           "artifact": {
             "size": 324,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jei-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jei-server.toml",
             "MD5": "6912479d1f35b27783befe8326720922",
             "path": "config/jei-server.toml"
           }
@@ -2021,7 +2021,7 @@
           "type": "File",
           "artifact": {
             "size": 264,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/jeresources-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/jeresources-common.toml",
             "MD5": "b9e7cfc6f1bec5049721e897bfb7acca",
             "path": "config/jeresources-common.toml"
           }
@@ -2032,7 +2032,7 @@
           "type": "File",
           "artifact": {
             "size": 474,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/justzoom/config.txt",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/justzoom/config.txt",
             "MD5": "9870d9afbe93cb329c8daa34e50d078d",
             "path": "config/justzoom/config.txt"
           }
@@ -2043,7 +2043,7 @@
           "type": "File",
           "artifact": {
             "size": 369,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/konkrete/locals/de_de.local",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/konkrete/locals/de_de.local",
             "MD5": "3aac3df2519057d2305f894c37771e30",
             "path": "config/konkrete/locals/de_de.local"
           }
@@ -2054,7 +2054,7 @@
           "type": "File",
           "artifact": {
             "size": 426,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/konkrete/locals/en_us.local",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/konkrete/locals/en_us.local",
             "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
             "path": "config/konkrete/locals/en_us.local"
           }
@@ -2065,7 +2065,7 @@
           "type": "File",
           "artifact": {
             "size": 313,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/konkrete/locals/pl_pl.local",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/konkrete/locals/pl_pl.local",
             "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
             "path": "config/konkrete/locals/pl_pl.local"
           }
@@ -2076,7 +2076,7 @@
           "type": "File",
           "artifact": {
             "size": 322,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/konkrete/locals/pt_br.local",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/konkrete/locals/pt_br.local",
             "MD5": "2d055da094c115b94f0e4373a2e06ebe",
             "path": "config/konkrete/locals/pt_br.local"
           }
@@ -2087,7 +2087,7 @@
           "type": "File",
           "artifact": {
             "size": 294,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/lootr-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/lootr-client.toml",
             "MD5": "9ea1c40f10de0ad42ea7706e5f18f117",
             "path": "config/lootr-client.toml"
           }
@@ -2098,7 +2098,7 @@
           "type": "File",
           "artifact": {
             "size": 6887,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/lootr-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/lootr-common.toml",
             "MD5": "b7081419e04e876a452996ee685f4f8f",
             "path": "config/lootr-common.toml"
           }
@@ -2109,7 +2109,7 @@
           "type": "File",
           "artifact": {
             "size": 135,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/MouseTweaks.cfg",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/MouseTweaks.cfg",
             "MD5": "ff577ca09e989c07c056c7cdff465be3",
             "path": "config/MouseTweaks.cfg"
           }
@@ -2120,7 +2120,7 @@
           "type": "File",
           "artifact": {
             "size": 578,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/neoforge-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/neoforge-client.toml",
             "MD5": "7f81c16ea3d467da83df18250f772149",
             "path": "config/neoforge-client.toml"
           }
@@ -2131,7 +2131,7 @@
           "type": "File",
           "artifact": {
             "size": 772,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/neoforge-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/neoforge-common.toml",
             "MD5": "914110a675baa858ef6725e3f56e513c",
             "path": "config/neoforge-common.toml"
           }
@@ -2142,7 +2142,7 @@
           "type": "File",
           "artifact": {
             "size": 1177,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/neoforge-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/neoforge-server.toml",
             "MD5": "5fad417d8fbff12e98bf3bbaa3782864",
             "path": "config/neoforge-server.toml"
           }
@@ -2153,7 +2153,7 @@
           "type": "File",
           "artifact": {
             "size": 565,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/NoChatReports/NCR-Client.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/NoChatReports/NCR-Client.json",
             "MD5": "37b8f0ed4931d2d3e87b0f4831a95d2e",
             "path": "config/NoChatReports/NCR-Client.json"
           }
@@ -2164,7 +2164,7 @@
           "type": "File",
           "artifact": {
             "size": 230,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/NoChatReports/NCR-Common.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/NoChatReports/NCR-Common.json",
             "MD5": "50bbc81415d36251933350271692eeba",
             "path": "config/NoChatReports/NCR-Common.json"
           }
@@ -2175,7 +2175,7 @@
           "type": "File",
           "artifact": {
             "size": 520,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/NoChatReports/NCR-Encryption.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/NoChatReports/NCR-Encryption.json",
             "MD5": "137196dfc1619ce0f3b341713498c7c3",
             "path": "config/NoChatReports/NCR-Encryption.json"
           }
@@ -2186,7 +2186,7 @@
           "type": "File",
           "artifact": {
             "size": 24,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/NoChatReports/NCR-ServerPreferences.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/NoChatReports/NCR-ServerPreferences.json",
             "MD5": "0968f5e80aa16a9f465f91ee816e165f",
             "path": "config/NoChatReports/NCR-ServerPreferences.json"
           }
@@ -2197,7 +2197,7 @@
           "type": "File",
           "artifact": {
             "size": 167,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/NoChatReports/README.md",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/NoChatReports/README.md",
             "MD5": "964a995c80aa43cc34d780276a65b898",
             "path": "config/NoChatReports/README.md"
           }
@@ -2208,7 +2208,7 @@
           "type": "File",
           "artifact": {
             "size": 167,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/polylib.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/polylib.json",
             "MD5": "cdc3258cb14febb6617f9c92ced136ab",
             "path": "config/polylib.json"
           }
@@ -2219,7 +2219,7 @@
           "type": "File",
           "artifact": {
             "size": 635,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/ponder-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/ponder-client.toml",
             "MD5": "a71defd616367abffa6e71a2d3b64b48",
             "path": "config/ponder-client.toml"
           }
@@ -2230,7 +2230,7 @@
           "type": "File",
           "artifact": {
             "size": 29,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/sliceanddice-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/sliceanddice-client.toml",
             "MD5": "89264f9c6a9189473431c373d03d3997",
             "path": "config/sliceanddice-client.toml"
           }
@@ -2241,7 +2241,7 @@
           "type": "File",
           "artifact": {
             "size": 491,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/sliceanddice-common-1.toml.bak",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/sliceanddice-common-1.toml.bak",
             "MD5": "6a30389fee56806578b36bea925fc3a6",
             "path": "config/sliceanddice-common-1.toml.bak"
           }
@@ -2252,7 +2252,7 @@
           "type": "File",
           "artifact": {
             "size": 491,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/sliceanddice-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/sliceanddice-common.toml",
             "MD5": "d3f01812b12be0a61bd7dfb78b5c8907",
             "path": "config/sliceanddice-common.toml"
           }
@@ -2263,7 +2263,7 @@
           "type": "File",
           "artifact": {
             "size": 427,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/sodium-fingerprint.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/sodium-fingerprint.json",
             "MD5": "ebf329649671d74c83783b036af822b4",
             "path": "config/sodium-fingerprint.json"
           }
@@ -2274,7 +2274,7 @@
           "type": "File",
           "artifact": {
             "size": 258,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/sodium-mixins.properties",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/sodium-mixins.properties",
             "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
             "path": "config/sodium-mixins.properties"
           }
@@ -2285,7 +2285,7 @@
           "type": "File",
           "artifact": {
             "size": 685,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/sodium-options.json",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/sodium-options.json",
             "MD5": "aa01ef19d7217fbb88ed03f737384c66",
             "path": "config/sodium-options.json"
           }
@@ -2296,7 +2296,7 @@
           "type": "File",
           "artifact": {
             "size": 655,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/sodiumdynamiclights-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/sodiumdynamiclights-client.toml",
             "MD5": "1aa7ab78fb5b1f74d98a096821d7ac08",
             "path": "config/sodiumdynamiclights-client.toml"
           }
@@ -2307,7 +2307,7 @@
           "type": "File",
           "artifact": {
             "size": 118,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/sophisticatedbackpacks-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/sophisticatedbackpacks-common.toml",
             "MD5": "3c220b8881045a5364a3a8d7395974a8",
             "path": "config/sophisticatedbackpacks-common.toml"
           }
@@ -2318,7 +2318,7 @@
           "type": "File",
           "artifact": {
             "size": 21629,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/sophisticatedbackpacks-server.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/sophisticatedbackpacks-server.toml",
             "MD5": "9301cea5f748caef262b4307f990c08d",
             "path": "config/sophisticatedbackpacks-server.toml"
           }
@@ -2329,7 +2329,7 @@
           "type": "File",
           "artifact": {
             "size": 474,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/sophisticatedcore-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/sophisticatedcore-client.toml",
             "MD5": "ff62e6fb7c0182801f56465c271efe62",
             "path": "config/sophisticatedcore-client.toml"
           }
@@ -2340,7 +2340,7 @@
           "type": "File",
           "artifact": {
             "size": 3080,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/sophisticatedcore-common.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/sophisticatedcore-common.toml",
             "MD5": "9687405aa95732878b29163de649a244",
             "path": "config/sophisticatedcore-common.toml"
           }
@@ -2351,7 +2351,7 @@
           "type": "File",
           "artifact": {
             "size": 937,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/storagedrawers-client.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/storagedrawers-client.toml",
             "MD5": "749304d6a0aa3396a57bb788850d9f4e",
             "path": "config/storagedrawers-client.toml"
           }
@@ -2362,7 +2362,7 @@
           "type": "File",
           "artifact": {
             "size": 14393,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/config/storagedrawers-common.v2.toml",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/config/storagedrawers-common.v2.toml",
             "MD5": "f7dd989fa9cff27bcc33deb8b17bdd09",
             "path": "config/storagedrawers-common.v2.toml"
           }
@@ -2373,7 +2373,7 @@
           "type": "File",
           "artifact": {
             "size": 108,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/servers.dat",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/servers.dat",
             "MD5": "3095e3cda4f8a4f7ae50e28d961bad65",
             "path": "servers.dat"
           }
@@ -2384,7 +2384,7 @@
           "type": "File",
           "artifact": {
             "size": 456328,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
             "MD5": "e49c87af1c2bb64337068f6928f06bff",
             "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
           }
@@ -2395,7 +2395,7 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "https://github.com/gable3260/HMSVR/servers/Create-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
