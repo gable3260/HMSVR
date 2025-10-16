@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///E:/server/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///E:/neoforgetest/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {

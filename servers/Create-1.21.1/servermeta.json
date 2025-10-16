@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///E:/server/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "HM Create",
+    "description": "Create Running Minecraft 1.21.1 (NeoForge v21.1.209)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "hmsvr.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "neoforge": {
+    "version": "21.1.209"
+  },
+  "untrackedFiles": []
+}
