@@ -798,16 +798,6 @@
           }
         },
         {
-          "id": "generated.forgemod:cmr:1.2.1@jar",
-          "name": "Create More Recipes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 730611,
-            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/Create%20More%20Recipes-1.21.1-1.2.1.jar",
-            "MD5": "ac814cf1fe1494e783f0991a19b8156a"
-          }
-        },
-        {
           "id": "generated.forgemod:createaddition:1.5.4@jar",
           "name": "Create Crafts & Additions",
           "type": "ForgeMod",
@@ -875,6 +865,16 @@
             "size": 18140,
             "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/createliquidfuel-2.1.1-1.21.1.jar",
             "MD5": "40493b83833af97c8d717084b61e7d62"
+          }
+        },
+        {
+          "id": "generated.forgemod:cmr:1.2.1@jar",
+          "name": "Create More Recipes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 730611,
+            "url": "https://gable3260.github.io/HMSVR/servers/Create-1.21.1/forgemods/required/CreateMoreRecipes-1.21.1-1.2.1.jar",
+            "MD5": "ac814cf1fe1494e783f0991a19b8156a"
           }
         },
         {
